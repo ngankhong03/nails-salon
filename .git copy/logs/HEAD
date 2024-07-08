@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 a5208ca9aaedb23b6028959ad423ff55bf9796cd Ngan Khong <ngankhong@microsoft.com> 1714173456 -0700	clone: from https://github.com/ngankhong03/ngankhong03.github.io.git
+a5208ca9aaedb23b6028959ad423ff55bf9796cd 35dae59ef17cf8cd90403b427d67df82f97d010e Ngan Khong <ngankhong@microsoft.com> 1714173726 -0700	commit: change color
+35dae59ef17cf8cd90403b427d67df82f97d010e 015571555f47702851ed565946962ab61b9f0a83 Ngan Khong <ngankhong@microsoft.com> 1714173729 -0700	pull --tags origin master: Merge made by the 'ort' strategy.
+015571555f47702851ed565946962ab61b9f0a83 c8aef643ecdfd0f1926b06e4faf51633a93623db Ngan Khong <ngankhong@microsoft.com> 1714175965 -0700	commit: added planner app
+c8aef643ecdfd0f1926b06e4faf51633a93623db ca6fe9409590ed357bff101663fdac10d362ce3a Ngan Khong <ngankhong@microsoft.com> 1714176210 -0700	commit: added project page
+ca6fe9409590ed357bff101663fdac10d362ce3a b334778b09d7b9c7b7501d3d98e82f7f0e13cbc5 Ngan Khong <ngankhong@microsoft.com> 1714176381 -0700	commit: modify image frame fit
+b334778b09d7b9c7b7501d3d98e82f7f0e13cbc5 b334778b09d7b9c7b7501d3d98e82f7f0e13cbc5 Ngan Khong <ngankhong@microsoft.com> 1714348125 -0700	checkout: moving from master to users/ngankhong/tetris
+b334778b09d7b9c7b7501d3d98e82f7f0e13cbc5 a270aadc3c581004636636084f37dedcf85450eb Ngan Khong <ngankhong@microsoft.com> 1714362234 -0700	commit: can't run pygame on html
